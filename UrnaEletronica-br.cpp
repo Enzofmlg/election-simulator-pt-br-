@@ -1,15 +1,15 @@
 /*
- ATIVIDADE DIRIGIDA
- Elabore um programa que receba e processe os dados de cada cédula, emitindo um relatório
- informativo com as seguintes informações:
- -Número de votos de cada um dos três candidatos;
- -O nome do candito vitorioso;
- -O número total de eleitores que compareceram às urnas.
  
- Observações:
- (1) A votação só será encerrada quando foi digitando o número 0 (zero) para encerrar o processo de votação;
+ Um programa que receba e processe os dados de cada cÃ©dula, emitindo um relatÃ³rio
+ informativo com as seguintes informaÃ§Ãµes:
+ -NÃºmero de votos de cada um dos trÃªs candidatos;
+ -O nome do candito vitorioso;
+ -O nÃºmero total de eleitores que compareceram Ã s urnas.
+ 
+ ObservaÃ§Ãµes:
+ (1) A votaÃ§Ã£o sÃ³ serÃ¡ encerrada quando foi digitando o nÃºmero 0 (zero) para encerrar o processo de votaÃ§Ã£o;
  (2) Em caso de empate imprima a seguinte mensagem:
- "VOTAÇÃO EM SEGUNDO TURNO".
+ "VOTAÃ‡ÃƒO EM SEGUNDO TURNO".
  */
  
  #include <stdio.h>
