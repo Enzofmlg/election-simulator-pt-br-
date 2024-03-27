@@ -1,4 +1,4 @@
-# election-simulator-pt-br-
+# Urna Eletronica (pt-br)
 
  
 O programa deve receber e processar os dados de cada cédula, emitindo um relatório informativo com as seguintes informações:<br>
